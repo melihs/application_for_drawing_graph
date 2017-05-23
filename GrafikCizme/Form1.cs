@@ -53,6 +53,7 @@ namespace GrafikCizme
                             default: break;
                         }
                     }
+                    //k2 sıfır olma durumu
                     else if (k2 == 0)
                     {
                         x[0] = Convert.ToDouble(k3 / k1);
