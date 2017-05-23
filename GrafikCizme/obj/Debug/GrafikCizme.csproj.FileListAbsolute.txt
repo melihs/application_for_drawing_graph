@@ -1,0 +1,104 @@
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\GrafikCizme.exe.config
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\GrafikCizme.exe
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\GrafikCizme.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.csprojResolveAssemblyReference.cache
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.Form1.resources
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.Properties.Resources.resources
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.csproj.GenerateResource.Cache
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.exe
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Data.v16.2.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Utils.v16.2.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraBars.v16.2.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Data.v16.2.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Utils.v16.2.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraBars.v16.2.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.exe.licenses
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\GrafikCizme.exe.config
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\GrafikCizme.exe
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\GrafikCizme.pdb
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.csprojResolveAssemblyReference.cache
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.Form1.resources
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.Properties.Resources.resources
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.csproj.GenerateResource.Cache
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.exe.licenses
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.exe
+C:\Users\melih\Desktop\ibrahimOzDersleri1\GrafikCizme\obj\Debug\GrafikCizme.pdb
