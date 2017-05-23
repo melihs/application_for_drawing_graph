@@ -31,8 +31,7 @@ namespace GrafikCizme
             else
             {
                 try
-                {   //timer(progressbar) öylesine yeşillik olsun:))
-                    timer1.Start();
+                {
                     double[] x = new double[10];
                     double[] y = new double[10];
 
@@ -98,10 +97,8 @@ namespace GrafikCizme
                     {
                         yazilar[i] = sayac + ".Denklem: " + lbSonuc.Text;
                     }
-
                     listFormuller.Items.AddRange(yazilar);
 
-                    // AxisChange() ve Invalidate() etodlarını incele
                     zedPanel.AxisChange();
                     zedPanel.Invalidate();
                     zedPanel.Refresh();
