@@ -11,5 +11,7 @@
   kütüphanesinin özelliğini kullanarak, aynı ekran üzerinde birden fazla grafik gösterilebilir.Her girilen yeni denklem listboxa eklenerek,
   yazılan tüm denklemlerin görünmesine olanak verdim.
  
+ ![alt text](http://www.imgim.com/app(1).png)
+ 
   
   
