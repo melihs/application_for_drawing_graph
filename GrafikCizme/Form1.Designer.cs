@@ -74,7 +74,7 @@
             this.btnCiz.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
             this.btnCiz.Image = ((System.Drawing.Image)(resources.GetObject("btnCiz.Image")));
             this.btnCiz.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnCiz.ImageUri.Uri = "Chart;Office2013";
+            //this.btnCiz.ImageUri.Uri = "Chart;Office2013";
             this.btnCiz.Location = new System.Drawing.Point(317, 124);
             this.btnCiz.Name = "btnCiz";
             this.btnCiz.Size = new System.Drawing.Size(75, 49);
